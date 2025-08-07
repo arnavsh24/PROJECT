@@ -1,0 +1,31 @@
+﻿Year,Sector,Technology_Implemented,Estimated_Adoption(%),Investment_in_Cr(INR)
+2019,Agriculture,AI for crop monitoring,10,150
+2020,Agriculture,IoT soil sensors,15,200
+2021,Agriculture,Drones for spraying,20,250
+2022,Agriculture,Smart irrigation systems,30,300
+2023,Agriculture,Agri e-commerce,40,350
+2024,Agriculture,Blockchain in supply chain,50,400
+2019,Healthcare,Telemedicine,5,100
+2020,Healthcare,AI diagnostics,10,150
+2021,Healthcare,EHR systems,20,200
+2022,Healthcare,Wearable health tech,30,250
+2023,Healthcare,Robot-assisted surgery,35,275
+2024,Healthcare,AI-based drug discovery,45,300
+2019,Education,Online learning platforms,10,120
+2020,Education,AR/VR in classrooms,20,180
+2021,Education,AI tutors,30,250
+2022,Education,Digital exams,40,300
+2023,Education,EdTech startups,50,350
+2024,Education,National Digital Library 3.0,60,400
+2019,Manufacturing,3D printing,8,130
+2020,Manufacturing,Robotics,15,170
+2021,Manufacturing,Smart factories (IIoT),25,220
+2022,Manufacturing,Industry 4.0 adoption,35,270
+2023,Manufacturing,Green manufacturing,45,320
+2024,Manufacturing,Cobots (collaborative robots),55,370
+2019,IT & AI,AI in logistics,20,200
+2020,IT & AI,Language models,30,300
+2021,IT & AI,AI governance,45,450
+2022,IT & AI,Generative AI tools,55,600
+2023,IT & AI,AI for MSMEs,65,700
+2024,IT & AI,IndiaAI Mission launched,75,850

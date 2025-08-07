@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 
-df = pd.read_csv("C:\PROJECT\Technology_Advancements_India_2019_2024.csv")
+df = pd.read_csv("Technology_Advancements_India_2019_2024.csv")
 
 st.title(" Technology Advancements in India (2019-2024)")
 st.markdown("This dashboard visualizes sector-wise technology implementation, adoption percentage, and investment.")
@@ -43,5 +43,6 @@ elif chart_type == "Area Chart":
     fig = px.area(filtered_df, x="Year", y=metric, color="Sector")
 elif chart_type == "Scatter Plot":
     fig = px.scatter(filtered_df, x="Year", y=metric, color="Sector", size=metric, hover_data=["Technology_Implemented"])
+
 
 st.plotly_chart(fig, use_container_width=True)
